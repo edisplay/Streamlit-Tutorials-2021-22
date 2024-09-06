@@ -34,7 +34,9 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 [![Latest YouTube Videos](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml/badge.svg)](https://github.com/avrabyt/YouTube-Tutorials/actions/workflows/Youtube-workflow.yml)
 
 
-<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=5ZZ9dJbCURQ"><img width="140px" src="https://i.ytimg.com/vi/5ZZ9dJbCURQ/mqdefault.jpg"></a></td>
+<!-- YOUTUBE:START --><table><tr><td><a href="https://www.youtube.com/watch?v=Id5MsznWGwM"><img width="140px" src="https://i.ytimg.com/vi/Id5MsznWGwM/mqdefault.jpg"></a></td>
+<td><a href="https://www.youtube.com/watch?v=Id5MsznWGwM">Build Full Stack Apps with AI #3 - AI Powered Search Engine</a><br/>Sep 5, 2024</td></tr></table>
+<table><tr><td><a href="https://www.youtube.com/watch?v=5ZZ9dJbCURQ"><img width="140px" src="https://i.ytimg.com/vi/5ZZ9dJbCURQ/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=5ZZ9dJbCURQ">Build Full Stack Apps with AI #2 - Stock Analysis App</a><br/>Sep 4, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=NOuOZtgLx24"><img width="140px" src="https://i.ytimg.com/vi/NOuOZtgLx24/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=NOuOZtgLx24">Build Full Stack Apps with AI #1 - Dashboard App</a><br/>Aug 28, 2024</td></tr></table>
@@ -42,8 +44,6 @@ Live App demo - [here](https://next.databutton.com/v/lgzxq112)
 <td><a href="https://www.youtube.com/watch?v=WfJeBvIkSoU">Learnings from Selling an AI SaaS product for $250K within a year! 💰 #startup #saas #microsaas #ai</a><br/>Jul 31, 2024</td></tr></table>
 <table><tr><td><a href="https://www.youtube.com/watch?v=RHk3RpQamX8"><img width="140px" src="https://i.ytimg.com/vi/RHk3RpQamX8/mqdefault.jpg"></a></td>
 <td><a href="https://www.youtube.com/watch?v=RHk3RpQamX8">From Idea to $250K Exit with AI SaaS : ChatNode&#39;s Success &amp; Making RAG Work in Production🚀</a><br/>Jul 29, 2024</td></tr></table>
-<table><tr><td><a href="https://www.youtube.com/watch?v=g-6nihTmeeQ"><img width="140px" src="https://i.ytimg.com/vi/g-6nihTmeeQ/mqdefault.jpg"></a></td>
-<td><a href="https://www.youtube.com/watch?v=g-6nihTmeeQ">Building Micro SaaS using AI - Part 2 &lpar;Adding Firebase Authentication , Polishing UI &rpar;</a><br/>May 30, 2024</td></tr></table>
 <!-- YOUTUBE:END -->
 
 
