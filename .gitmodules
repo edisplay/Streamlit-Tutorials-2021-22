@@ -19,3 +19,12 @@
 [submodule "OpenAI-Streamlit-YouTube"]
 	path = OpenAI-Streamlit-YouTube
 	url = https://github.com/avrabyt/OpenAI-Streamlit-YouTube.git
+[submodule "LangChain-Web-Apps"]
+	path = LangChain-Web-Apps
+	url = https://github.com/avrabyt/LangChain-Web-Apps.git
+[submodule "RAG-Chatbot"]
+	path = RAG-Chatbot
+	url = https://github.com/avrabyt/RAG-Chatbot.git
+[submodule "GPT4-turbo-with-vision-demo"]
+	path = GPT4-turbo-with-vision-demo
+	url = https://github.com/avrabyt/GPT4-turbo-with-vision-demo.git
